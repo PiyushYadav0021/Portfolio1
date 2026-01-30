@@ -1,2 +1,1 @@
-# Portfolio1
-my portfolio
+This is my Portfolio website made by HTML, CSS, JS
